@@ -1,0 +1,15 @@
+D:\Demos\Core_all\bin\Debug\netcoreapp2.1\Core_all.deps.json
+D:\Demos\Core_all\bin\Debug\netcoreapp2.1\Core_all.runtimeconfig.json
+D:\Demos\Core_all\bin\Debug\netcoreapp2.1\Core_all.runtimeconfig.dev.json
+D:\Demos\Core_all\bin\Debug\netcoreapp2.1\Core_all.dll
+D:\Demos\Core_all\obj\Debug\netcoreapp2.1\Core_all.csprojAssemblyReference.cache
+D:\Demos\Core_all\obj\Debug\netcoreapp2.1\Core_all.csproj.CoreCompileInputs.cache
+D:\Demos\Core_all\obj\Debug\netcoreapp2.1\Core_all.RazorAssemblyInfo.cache
+D:\Demos\Core_all\obj\Debug\netcoreapp2.1\Core_all.RazorAssemblyInfo.cs
+D:\Demos\Core_all\obj\Debug\netcoreapp2.1\Core_all.AssemblyInfoInputs.cache
+D:\Demos\Core_all\obj\Debug\netcoreapp2.1\Core_all.AssemblyInfo.cs
+D:\Demos\Core_all\obj\Debug\netcoreapp2.1\Core_all.RazorTargetAssemblyInfo.cache
+D:\Demos\Core_all\bin\Debug\netcoreapp2.1\Core_all.pdb
+D:\Demos\Core_all\obj\Debug\netcoreapp2.1\Core_all.dll
+D:\Demos\Core_all\obj\Debug\netcoreapp2.1\Core_all.pdb
+D:\Demos\Core_all\bin\Debug\netcoreapp2.1\log4net.config
